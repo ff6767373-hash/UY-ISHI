@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    width: 1555px;
+    height: 85px;
+    background-color: black;
+    color: white;
+    /* gap: 500px; */
+    align-items: center;
+    /* justify-content: space-evenly; */
+    
+}
+
+.box{
+    display: flex;
+    gap: 40px;
+}
+
+.bbb{
+    padding-left: 42px;
+    font-size: 28px;
+}
+
+.ppp{
+    padding-left: 111px;
+    font-size: 18px;
+}
+
+.box3{
+    padding-left:   1px ;
+    display: flex;
+    width: 374px;
+    height: 22px;
+}
+
+input{
+    margin-left: 730px;
+    margin-right: 38px;
+    width: 300px;
+    height: 50px;
+}
+
+main{
+    background-image: url(./102b717c54f394b07d03f7a261f2bb7247bc2c7f.jpg);
+    width: 1555px;
+    height: 300px;
+    color: white;
+}
+
+button{
+    background-color: #76B900;
+    width: 109px;
+    height: 55px;
+    margin-left: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bbb2{
+    font-size: 40px;
+    padding-left: 45px;
+}
+
+.box4{
+    font-size: 48px;
+    align-items: center;
+    text-align: center;
+}
+
+.box5{
+    width: 290px;
+    height: 302px;
+    box-shadow: 6px 6px 6px rgb(184, 183, 183);
+}
+
+.gmi1{
+    width: 290px;
+    height: 163.37px;
+}
+
+.box6{
+    display: flex;
+    gap: 40px;
+    margin-left: 130px;
+    
+    /* box-shadow: 6px 6px 6px rgb(36, 36, 36); */
+    width: 1280px;
+    height: 400px;
+    margin-top: 40px;
+    
+}
+
+h1{
+    font-size: 18px ;
+    padding-left: 56px;
+}
+
+
+p{
+    font-size: 14px ;
+    text-align: center;
+    padding-top: 37px;
+}
+
+
+.bbb3{
+    font-size: 48px;
+}
+
+.gmi2{
+    width: 704px;
+    height: 300px;
+    margin-top: 21px;
+}
+
+.box7{
+    width: 1280px;
+    height: 351px;
+    display: flex;
+    margin-left: 53px;
+}
+
+.tub{
+    width: 233px;
+    height: 63px;
+    background-color: #76B900;
+    /* margin-top: 300px; */
+    
+}
+
+h2{
+    font-size: 48px;
+    color: #67B900;
+   margin-top: 21px;
+   margin-left: 40px;
+  
+    
+}
+
+.ppp4{
+  padding-left: 40px;
+   display: flex;
+   
+}
+
+.box8{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+
+.ppp5{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.box9{
+    width: 1280px;
+    height: 211px;
+    margin-top: 100px;  
+    margin-left: 100px;  
+}
+
+.gmi3{
+    width: 100px;
+    height: 31px;
+}
+
+.ppp6{
+    align-items: center;
+    padding-left: 1150px;
+}
